@@ -1,4 +1,4 @@
-# project7_Best vehicles features
+# Proyecto 7- Best vehicles features
 Proyecto 7 
 App Vehicles, best features choices
 Esta app permite al usuario indagar sobre las opciones que existen para elegir el vehiculo de su referencia.
